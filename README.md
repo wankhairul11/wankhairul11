@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wan Khairul Aiman Bin Wan Ali</h1>
 <h3 align="center">Full Stack Developer | Tech Enthusiast | Problem Solver</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wankhairul11" alt="wankhairul11" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **w.k.aiman1993@gmail.com**
